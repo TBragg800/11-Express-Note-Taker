@@ -7,9 +7,9 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/TBragg800/11-Express-Note-Taker)
 
 ## Walkthrough Video Demonstration: 
-![Walkthrough]()
+![Walkthrough](./public/assets/11-Express-Note-Taker-Walkthrough.gif)
 * YouTube link to the 
-[walkthrough]()
+[walkthrough](https://youtu.be/uT-WC-XmrIk)
 
 ## Table of Contents
   [Description](#Description)
@@ -36,7 +36,7 @@
 ## Usage
   After installation, the user should run 'node server.js' in the CLI, then answer the following prompts.
 
-![]()
+![](./public/assets/11-Express-Usage.png)
 
 ## License
   MIT License
@@ -67,12 +67,10 @@ SOFTWARE.
 ## Tests
   There are no current tests for this applications.
 
-![]()
-
 ## Questions
   All questions should be submitted to the email listed below. Please consult the GitHub profile or Repo for additional concerns. 
   Email: Ttbbragg83@gmail.com
   Github: [TBragg800](http://github.com/TBragg800)
 
 ## Screenshot of deployed application
-![]()
+![](./public/assets/11-Express-ScreenShot.png)
