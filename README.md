@@ -30,7 +30,7 @@
   This application utilizes node.js and express.js backend technologies to write, save and delete user generated notes offering the user the ability to organize thoughts and keep track of tasks.
 
 ## Installation
- Installation is not neccessary for this application. See usage for for navigating to the deplyed site. If installation is preferred, navigate to the github repository listed above and clone the repo locally. Using the CLI, the user should navigate to the project directory and run 'npm install'. Next start the server by running 'node server.js'. In the browser, use http:localhost:3001 to navigate to the site.
+ Installation is not neccessary for this application. See usage for navigating to the deplyed site. If installation is preferred, navigate to the github repository listed above and clone the repo locally. Using the CLI, the user should navigate to the project directory and run 'npm install'. Next start the server by running 'node server.js'. In the browser, use http:localhost:3001 to navigate to the site.
 
 
 ## Usage
@@ -41,7 +41,7 @@
 ## License
   MIT License
 
-Copyright (c) [2020] [Thomas Bragg]
+Copyright (c) 2020 Thomas Bragg
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
