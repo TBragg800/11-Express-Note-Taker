@@ -27,14 +27,14 @@
   [Questions](#Questions)
   
 ## Description
-  
+  This application utilizes node.js and express.js backend technologies to write, save and delete user generated notes offering the user the ability to organize thoughts and keep track of tasks.
 
 ## Installation
-* Using the CLI, the user should navigate to the project directory and run 'npm install'.
+ Installation is not neccessary for this application. See usage for for navigating to the deplyed site. If installation is preferred, navigate to the github repository listed above and clone the repo locally. Using the CLI, the user should navigate to the project directory and run 'npm install'. Next start the server by running 'node server.js'. In the browser, use http:localhost:3001 to navigate to the site.
 
 
 ## Usage
-  After installation, the user should run 'node server.js' in the CLI, then answer the following prompts.
+  Start by visiting the Heroku deployed page at https://fathomless-dusk-80816.herokuapp.com/. Navigate from the starting page to the notes page. Add a title and text content to each of your notes then hit save. You can add new notes by clicking the pen button in the top right corner, review notes by clicking into the saved note or delete previous notes by clicking the trash button next to the specific note.
 
 ![](./public/assets/11-Express-Usage.png)
 
